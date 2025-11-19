@@ -1,0 +1,59 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Testing
+/coverage
+
+# Next.js
+/.next/
+/out/
+
+# Production builds
+/build
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment files
+.env*
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# --- Python: block pycache + virtualenvs ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+env/
+ENV/
+*.egg
+
+# JetBrains / VS Code (optional; safe to ignore)
+/.idea/
+/.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
