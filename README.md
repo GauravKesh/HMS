@@ -173,7 +173,11 @@ http://localhost:8000
 
 ## 📊 ER Diagram & System Architecture
 
-*(Add the images shown in your report here)*
+<img width="2521" height="1449" alt="architecture" src="https://github.com/user-attachments/assets/7bd4a186-d9fb-4d90-97d6-bb02b9bf8ca9" />
+
+
+<img width="3659" height="1384" alt="mentor connect flowchart-2025-11-19-152720" src="https://github.com/user-attachments/assets/12483b31-eb7d-48cd-94a8-d92b49ce3f02" />
+
 
 ---
 
